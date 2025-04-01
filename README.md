@@ -13,5 +13,4 @@ This repository contains examples of SQL queries, including basic operations and
 
 You can run these queries on any SQL database system that supports standard SQL syntax (MySQL, PostgreSQL, Oracle, etc.).  
 
-s!  
 
