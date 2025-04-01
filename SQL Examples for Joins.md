@@ -1,5 +1,3 @@
-```markdown
-
 ## SQL Query Examples
 
 ### Ex.1. Select all fields and all rows
