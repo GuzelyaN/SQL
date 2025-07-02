@@ -11,7 +11,7 @@ This repository contains examples of SQL queries, including basic operations, va
 
 ## 🚀 Thigers
 select * from "AvatarTask" at2 where at2.updated_at > '2025-07-01' order by at2.updated_at ;
-```
+
 SELECT *, COUNT(*) OVER() AS total_count
 FROM "AvatarTask" at2
 WHERE at2."type" = 'BACKGROUND' 
